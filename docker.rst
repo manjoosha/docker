@@ -1,3 +1,6 @@
+Installing Docker
+================
+
 Docker commands
 ===============
 
