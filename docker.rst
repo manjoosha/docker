@@ -14,3 +14,6 @@ Docker commands
 	"docker top", "to display the processes inside the container"
 	"docker link", "it adds host entries"
 	"docker logs", "executes what are the commands are running or inside a container"
+	"docker rmi", "remove docker image"
+	"docker build", "create your own docker image"
+	"docker compose", "executing docker images in an order"
