@@ -12,3 +12,4 @@ Docker commands
 	"docker ps -l", "displays last started container"
 	"docker port", "display the port"
 	"docker top", "to display the processes inside the container"
+	"docker link:, "it adds hosts details"
