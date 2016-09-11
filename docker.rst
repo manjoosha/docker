@@ -13,3 +13,4 @@ Docker commands
 	"docker port", "display the port"
 	"docker top", "to display the processes inside the container"
 	"docker link", "it adds host entries"
+	"docker logs", "executes what are the commands are running or inside a container"
