@@ -1,6 +1,11 @@
 Installing Docker
 ================
-
+Install in ubuntu
+-----------------
+	apt-get install docker.io
+Install in centos
+-----------------
+	apt-get install docker
 Docker commands
 ===============
 
