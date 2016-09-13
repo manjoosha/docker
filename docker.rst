@@ -22,3 +22,4 @@ Docker commands
 	"docker rmi", "remove docker image"
 	"docker build", "create your own docker image"
 	"docker compose", "executing docker images in an order"
+	"docker rm $(docker ps -a -q)", "To kill all docker containers at once"
